@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "xlerator_dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "your_username",
+    "password": "your_password",
+    "database": "xlerator_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
